@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Can-Set-Native-Prefix: true
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: Agent
+Class-Path: .
